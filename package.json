@@ -2,18 +2,18 @@
   "author": "John Roepke <john@justjohn.us> (http://john.sh/)",
   "name": "twig",
   "description": "JS port of the Twig templating language.",
-  "version": "1.17.1",
-  "homepage": "https://github.com/twigjs/twig.js",
+  "version": "1.17.2-invitado",
+  "homepage": "https://github.com/antoineveldhoven/twig.js",
   "license": "BSD-2-Clause",
   "licenses": [
     {
       "type": "BSD-2-Clause",
-      "url": "https://raw.github.com/twigjs/twig.js/master/LICENSE"
+      "url": "https://raw.github.com/antoineveldhoven/twig.js/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/twigjs/twig.js.git"
+    "url": "git://github.com/antoineveldhoven/twigjs/twig.js.git"
   },
   "main": "src/twig.js",
   "engines": {
